@@ -53,4 +53,4 @@ Run the main program:
 - Improve debugging mechanisms using logging.
 
 ## Development
-Developed by Humayun Abdullah
+Developed by Humayun Abdullah and Furqan sharjeel
